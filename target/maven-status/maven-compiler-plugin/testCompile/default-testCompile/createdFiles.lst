@@ -1,0 +1,3 @@
+NewTest.class
+com\cucumber\pages\LoginPage.class
+com\cucumber\tests\LoginTest.class

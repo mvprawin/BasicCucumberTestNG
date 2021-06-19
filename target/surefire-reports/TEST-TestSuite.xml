@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="8.722" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk1.8.0_191\jre\bin"/>
+    <property name="java.vm.version" value="25.191-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="G:\Workspace\2020\BasicCucumberTestNG"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="G:\Workspace\2020\BasicCucumberTestNG"/>
+    <property name="java.runtime.version" value="1.8.0_191-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="G:\Workspace\2020\BasicCucumberTestNG"/>
+    <property name="java.endorsed.dirs" value="D:\Program Files\Java\jdk1.8.0_191\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\WINDOWS\TEMP\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="G:\Workspace\2020\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1029536385397849877.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="D:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/PRAWIN/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932/jre/bin/server;C:/Users/PRAWIN/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932/jre/bin;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;G:\app\PRAWIN\product\11.2.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files (x86)\Java\jdk1.8.0_251\bin;G:\app\PRAWIN\product\11.2.0\dbhome_1\BIN;D:\Program Files\Android\asdk\tools;D:\Program Files\Android\asdk\platform-tools;D:\Program Files\Android\asdk\build-tools;D:\Program Files\apache-maven-3.6.3\bin;D:\Program Files (x86)\Java\jdk1.8.0_251\jre\bin;D:\Program Files\allure-2.13.2\bin;D:\Program Files (x86)\Mozilla Firefox\firefox.exe;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office;D:\Program Files\Drivers\chromedriver.exe;D:\Program Files\Git\workspace;D:\Program Files\Drivers\geckodriver.exe;D:\Program Files\nodejs\;D:\Users\PRAWIN\.m2\repository;D:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;D:\Program Files\Microsoft SQL Server\150\Tools\Binn\;D:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;D:\Program Files\Microsoft SQL Server\150\DTS\Binn\;D:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Azure Data Studio\bin;D:\Program Files\nodejs\node_modules\npm;D:\TDM-GCC-64\bin;C:\Program Files\dotnet\;D:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Program Files\Git;D:\Program Files\Git\bin;D:\Program Files\Git\usr\bin;D:\Program Files\apache-jmeter-3.3\bin;D:\Program Files\Microsoft SQL Server\sqljdbc_6.0\enu\auth\x64;D:\Program Files\Microsoft SQL Server\sqljdbc_6.0\enu\auth\x86;D:\Program Files\MySQL\MySQL Workbench 8.0 CE;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;D:\Program Files\Python\Python39\Scripts\;D:\Program Files\Python\Python39\;C:\Users\PRAWIN\AppData\Local\Microsoft\WindowsApps;D:\Program Files\JetBrains\PyCharm 2020.2.3\bin;;D:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;;D:\Program Files\Drivers;C:\Program Files\Azure Data Studio\bin;C:\Users\PRAWIN\.dotnet\tools;D:\Program Files (x86)\Nmap;C:\Users\PRAWIN\Desktop;;."/>
+    <property name="surefire.test.class.path" value="G:\Workspace\2020\BasicCucumberTestNG\target\test-classes;G:\Workspace\2020\BasicCucumberTestNG\target\classes;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;D:\Users\PRAWIN\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;D:\Users\PRAWIN\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;D:\Users\PRAWIN\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;D:\Users\PRAWIN\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;D:\Users\PRAWIN\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;D:\Users\PRAWIN\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;D:\Users\PRAWIN\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;D:\Users\PRAWIN\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;D:\Users\PRAWIN\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;D:\Users\PRAWIN\.m2\repository\org\testng\testng\7.0.0-beta1\testng-7.0.0-beta1.jar;D:\Users\PRAWIN\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;D:\Users\PRAWIN\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar;D:\Users\PRAWIN\.m2\repository\info\cukes\cucumber-testng\1.2.5\cucumber-testng-1.2.5.jar;D:\Users\PRAWIN\.m2\repository\info\cukes\cucumber-core\1.2.5\cucumber-core-1.2.5.jar;D:\Users\PRAWIN\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar;D:\Users\PRAWIN\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar;D:\Users\PRAWIN\.m2\repository\info\cukes\cucumber-java\1.2.5\cucumber-java-1.2.5.jar;D:\Users\PRAWIN\.m2\repository\info\cukes\cucumber-junit\1.2.5\cucumber-junit-1.2.5.jar;D:\Users\PRAWIN\.m2\repository\junit\junit\4.12\junit-4.12.jar;D:\Users\PRAWIN\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\Users\PRAWIN\.m2\repository\org\uncommons\reportng\1.1.4\reportng-1.1.4.jar;D:\Users\PRAWIN\.m2\repository\velocity\velocity\1.4\velocity-1.4.jar;D:\Users\PRAWIN\.m2\repository\velocity\velocity-dep\1.5-beta2\velocity-dep-1.5-beta2.jar;D:\Users\PRAWIN\.m2\repository\com\google\inject\guice\4.2.2\guice-4.2.2.jar;D:\Users\PRAWIN\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;D:\Users\PRAWIN\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;D:\Users\PRAWIN\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.18.1\surefire-testng-utils-2.18.1.jar;D:\Users\PRAWIN\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.18.1\surefire-grouper-2.18.1.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\PRAWIN"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="PRAWIN"/>
+    <property name="java.class.path" value="C:\Users\PRAWIN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20200610-1735\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\Program Files\Java\jdk1.8.0_191\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_191"/>
+    <property name="java.ext.dirs" value="D:\Program Files\Java\jdk1.8.0_191\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\Program Files\Java\jdk1.8.0_191\jre\lib\resources.jar;D:\Program Files\Java\jdk1.8.0_191\jre\lib\rt.jar;D:\Program Files\Java\jdk1.8.0_191\jre\lib\sunrsasign.jar;D:\Program Files\Java\jdk1.8.0_191\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.8.0_191\jre\lib\jce.jar;D:\Program Files\Java\jdk1.8.0_191\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.8.0_191\jre\lib\jfr.jar;D:\Program Files\Java\jdk1.8.0_191\jre\classes"/>
+    <property name="webdriver.chrome.driver" value="src/test/resources/chromedriver.exe"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="G:\Workspace\2020\BasicCucumberTestNG\EMBEDDED"/>
+    <property name="localRepository" value="D:\Users\PRAWIN\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="login" classname="com.cucumber.tests.LoginTest" time="8.722"/>
+</testsuite>
