@@ -94,5 +94,27 @@
   		<artifactId>guice</artifactId>
   		<version>4.2.2</version>
   	</dependency>
+  	  <dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports-cucumber4-adapter</artifactId>
+    <version>1.0.2</version>
+</dependency>
+<dependency>
+    <groupId>com.vimalselvam</groupId>
+    <artifactId>cucumber-extentsreport</artifactId>
+    <version>3.1.1</version>
+</dependency>
+
+<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>4.0.9</version>
+</dependency>
+
+<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-databind</artifactId>
+    <version>2.12.2</version>
+</dependency>
   </dependencies>
 </project>

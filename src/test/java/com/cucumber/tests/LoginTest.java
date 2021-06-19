@@ -33,6 +33,7 @@ import cucumber.api.testng.TestNGCucumberRunner;
 		plugin = {"pretty",
 				"html:target/cucumber-reports/cucumber-pretty",
 				"json:target/cucumber-reports/CucumberTestReport.json",
+				"com.vimalselvam.cucumber.listener.ExtentCucumberFormatter:target/extent-reports/report.html",
 				"rerun:target/cucumber-reports/re-run.txt"}	)		
 public class LoginTest  
 {
